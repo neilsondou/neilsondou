@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Tianyang Dou 👋
 
-<!--
-**neilsondou/neilsondou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with 6 years of experience and a social science columnist. I build tools that bridge technology and humanities.
 
-Here are some ideas to get you started:
+#### 📦 Projects I maintain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[SSL-Hub](https://github.com/yourusername/ssl-hub)** – A digital library for social science literature.
+- **[Bewy](https://github.com/yourusername/bewy)** – A lightweight code editor.
+- **[Bewyblogger](https://github.com/yourusername/bewyblogger)** – A blogging platform powered by Bewy.
+
+#### 🛠️ Tech I use
+
+JavaScript · TypeScript · Python · React · Node.js · Django · Docker · Git
+
+#### 📫 Reach me
+
+- Email: tianyang@example.com
+- Twitter: [@tianyang_dou](https://twitter.com/tianyang_dou)
+- Blog: [tianyang.dev](https://tianyang.dev)
