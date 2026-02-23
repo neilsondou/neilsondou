@@ -15,5 +15,5 @@ JavaScript · TypeScript · Python · React · Node.js · Django · Docker · Gi
 #### 📫 Reach me
 
 - Email: doutianyang@163.com
-- Twitter: [@tianyang_dou](https://twitter.com/tianyang_dou)
+- Zhihu: [@qiumuu](https://www.zhihu.com/people/qiumuu)
 - Blog: [dou.asia](https://www.dou.asia/)
