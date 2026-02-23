@@ -4,9 +4,9 @@ I'm a full-stack developer with 6 years of experience and a social science colum
 
 #### 📦 Projects I maintain
 
-- **[SSL-Hub](https://github.com/yourusername/ssl-hub)** – A digital library for social science literature.
-- **[Bewy](https://github.com/yourusername/bewy)** – A lightweight code editor.
-- **[Bewyblogger](https://github.com/yourusername/bewyblogger)** – A blogging platform powered by Bewy.
+- SSL-Hub – A digital library for social science literature.
+- Bewy – A lightweight code editor.
+- Bewyblogger – A blogging platform.
 
 #### 🛠️ Tech I use
 
@@ -14,6 +14,6 @@ JavaScript · TypeScript · Python · React · Node.js · Django · Docker · Gi
 
 #### 📫 Reach me
 
-- Email: tianyang@example.com
+- Email: doutianyang@163.com
 - Twitter: [@tianyang_dou](https://twitter.com/tianyang_dou)
-- Blog: [tianyang.dev](https://tianyang.dev)
+- Blog: [dou.asia](https://www.dou.asia/)
